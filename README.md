@@ -1,5 +1,6 @@
 
-# Project Title
+# My First Repo
 
-A brief description of what this project does and who it's for
+Just here faffing around, getting used to the environment
+Dont take serious.
 
