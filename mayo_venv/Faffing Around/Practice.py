@@ -114,3 +114,5 @@ N = int(input())
 sum_of_numbers = (N * (N + 1)) // 2
 
 print(sum_of_numbers)
+
+range(8)
