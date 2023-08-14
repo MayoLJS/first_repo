@@ -106,3 +106,11 @@ x = [6, 4, 2, 9]
 x = x[::-1]
 
 print(x[0]+x[2])
+
+
+N = int(input())
+
+# Calculating the sum of numbers from 1 to N
+sum_of_numbers = (N * (N + 1)) // 2
+
+print(sum_of_numbers)
